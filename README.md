@@ -32,10 +32,8 @@ Aplicação em Flutter que consome a API pública [ViaCEP]('https://viacep.com.b
  
  <h2 id="images">🖼️ Imagens </h2>
 
-<h3 id="entrada">Tela inicial - Lista de Pokémons</h3>
-<img alt="Tela de entrada" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/213880417-7861c32a-0d5e-4c77-8d77-c48c7e36d7ac.png"/>
-<h3 id="entrada">Tela de Detalhes</h3>
-<img alt="Tela inicial" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/213880452-1f7753f1-61a8-4827-b754-df2c5138a3d7.png" />
+<h3 id="entrada">Tela inicial</h3>
+<img alt="Tela de entrada" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/214675914-af9d1165-04a4-47d3-8d90-4ddcca13a3e1.PNG"/>
 
 <h4 align="right"><a href="#topo">Topo</a></h4>
 
